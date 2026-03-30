@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattianeroni
 - 💻 I’m currently Applied Scientist II at [Amazon](https://www.amazon.science/).
 - 📚 I've a Ph.D. in algorithms and artificial intelligence applied to logistics, supply chain, and manufacturing.
-- 🌱 I’m currently learning more about JIT compilers.
+- 🌱 I’m currently learning more about matheuristics.
 - 💞️ I’m interested in algorithms, operations research, data science, machine learning, web development, robotics, logistics, and manufacturing.
 - 📫 You can reach me out writing me at my personal emails mattianeroni@yahoo.it
